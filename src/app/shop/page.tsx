@@ -57,7 +57,7 @@ export default function ShopPage() {
               name: "Brass Wall Clock",
               price: "₹8,500",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/ramadan-concept-with-glasses_23-2147791753.jpg",
+                "http://img.b2bpic.net/free-photo/ramadan-concept-with-glasses_23-2147791753.jpg?_wi=2",
               imageAlt: "Elegant brass wall clock",
               initialQuantity: 1,
             },
@@ -66,7 +66,7 @@ export default function ShopPage() {
               name: "Decorative Wind Chime",
               price: "₹5,200",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/young-woman-decorating-house-with-christmas-toys_1303-25883.jpg",
+                "http://img.b2bpic.net/free-photo/young-woman-decorating-house-with-christmas-toys_1303-25883.jpg?_wi=2",
               imageAlt: "Traditional wind chime",
               initialQuantity: 1,
             },
@@ -75,7 +75,7 @@ export default function ShopPage() {
               name: "Abstract Painting",
               price: "₹12,000",
               imageSrc:
-                "http://img.b2bpic.net/free-vector/geometric-shapes-abstract-watercolor-cover-template_52683-45061.jpg",
+                "http://img.b2bpic.net/free-vector/geometric-shapes-abstract-watercolor-cover-template_52683-45061.jpg?_wi=2",
               imageAlt: "Modern abstract artwork",
               initialQuantity: 1,
             },
@@ -84,7 +84,7 @@ export default function ShopPage() {
               name: "Stone Artifact Vase",
               price: "₹7,800",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/close-up-arrangement-modern-vases_23-2149646530.jpg",
+                "http://img.b2bpic.net/free-photo/close-up-arrangement-modern-vases_23-2149646530.jpg?_wi=2",
               imageAlt: "Handcrafted stone vase",
               initialQuantity: 1,
             },
@@ -93,7 +93,7 @@ export default function ShopPage() {
               name: "Wooden Frame Set",
               price: "₹4,500",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/ramadan-frames-wall-front-view-white-background_187299-38104.jpg",
+                "http://img.b2bpic.net/free-photo/ramadan-frames-wall-front-view-white-background_187299-38104.jpg?_wi=2",
               imageAlt: "Premium wooden frames",
               initialQuantity: 1,
             },
@@ -102,7 +102,7 @@ export default function ShopPage() {
               name: "Ceramic Décor Bowl",
               price: "₹6,200",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/side-view-shaped-blank-white-simple-ceramic-coffee-cups-pyramide-thick-wooden-table-isolated_346278-1399.jpg",
+                "http://img.b2bpic.net/free-photo/side-view-shaped-blank-white-simple-ceramic-coffee-cups-pyramide-thick-wooden-table-isolated_346278-1399.jpg?_wi=2",
               imageAlt: "Handmade ceramic bowl",
               initialQuantity: 1,
             },
@@ -171,7 +171,7 @@ export default function ShopPage() {
               name: "Wooden Shelf Décor",
               price: "₹6,800",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/ramadan-frames-wall-front-view-white-background_187299-38104.jpg",
+                "http://img.b2bpic.net/free-photo/ramadan-frames-wall-front-view-white-background_187299-38104.jpg?_wi=3",
               imageAlt: "Premium wooden shelving",
               initialQuantity: 1,
             },
@@ -180,7 +180,7 @@ export default function ShopPage() {
               name: "Stone Planters",
               price: "₹5,500",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/close-up-arrangement-modern-vases_23-2149646530.jpg",
+                "http://img.b2bpic.net/free-photo/close-up-arrangement-modern-vases_23-2149646530.jpg?_wi=3",
               imageAlt: "Stone planter set",
               initialQuantity: 1,
             },
@@ -189,7 +189,7 @@ export default function ShopPage() {
               name: "Vintage Mirror Frame",
               price: "₹4,200",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/ramadan-concept-with-glasses_23-2147791753.jpg",
+                "http://img.b2bpic.net/free-photo/ramadan-concept-with-glasses_23-2147791753.jpg?_wi=3",
               imageAlt: "Antique mirror frame",
               initialQuantity: 1,
             },
