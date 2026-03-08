@@ -54,7 +54,7 @@ export default function GalleryPage() {
           tagIcon={Sparkles}
           tagAnimation="slide-up"
           background={{ variant: "glowing-orb" }}
-          imageSrc="http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vase_23-2151003058.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vase_23-2151003058.jpg?_wi=2"
           imageAlt="Premium artifact collection display"
           imagePosition="right"
           mediaAnimation="slide-up"
@@ -70,7 +70,7 @@ export default function GalleryPage() {
               testimonial:
                 "Amazing collection! The artifacts transformed my living room completely. Highly recommended!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-young-woman-sitting-cafe_23-2148161555.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-young-woman-sitting-cafe_23-2148161555.jpg?_wi=2",
             },
             {
               name: "Rajesh Kumar",
@@ -78,7 +78,7 @@ export default function GalleryPage() {
               testimonial:
                 "Best artifacts supplier in Pune. Great quality and excellent customer service.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-grey-shirt-looking-front-with-clenched-fists-happy-excited-standing-pink-wall_141793-52902.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-grey-shirt-looking-front-with-clenched-fists-happy-excited-standing-pink-wall_141793-52902.jpg?_wi=2",
             },
             {
               name: "Ananya Desai",
@@ -86,7 +86,7 @@ export default function GalleryPage() {
               testimonial:
                 "Unique pieces that can't be found anywhere else. Worth every rupee!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-woman-using-her-mobile-phone-street_1301-4689.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-woman-using-her-mobile-phone-street_1301-4689.jpg?_wi=2",
             },
             {
               name: "Vikram Singh",
@@ -94,7 +94,7 @@ export default function GalleryPage() {
               testimonial:
                 "Exceptional craftsmanship and attention to detail. A true gem in Pune's décor scene.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/studio-portrait-serious-bearded-male-dressed-suit_613910-14795.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/studio-portrait-serious-bearded-male-dressed-suit_613910-14795.jpg?_wi=2",
             },
           ]}
           testimonialRotationInterval={5000}
@@ -122,7 +122,7 @@ export default function GalleryPage() {
               id: "1",
               name: "Brass Wall Clock",
               price: "₹8,500",
-              imageSrc: "http://img.b2bpic.net/free-photo/ramadan-concept-with-glasses_23-2147791753.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/ramadan-concept-with-glasses_23-2147791753.jpg?_wi=4",
               imageAlt: "Elegant brass wall clock",
               initialQuantity: 1,
             },
@@ -130,7 +130,7 @@ export default function GalleryPage() {
               id: "2",
               name: "Decorative Wind Chime",
               price: "₹5,200",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-woman-decorating-house-with-christmas-toys_1303-25883.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-woman-decorating-house-with-christmas-toys_1303-25883.jpg?_wi=3",
               imageAlt: "Traditional wind chime",
               initialQuantity: 1,
             },
@@ -138,7 +138,7 @@ export default function GalleryPage() {
               id: "3",
               name: "Abstract Painting",
               price: "₹12,000",
-              imageSrc: "http://img.b2bpic.net/free-vector/geometric-shapes-abstract-watercolor-cover-template_52683-45061.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/geometric-shapes-abstract-watercolor-cover-template_52683-45061.jpg?_wi=3",
               imageAlt: "Modern abstract artwork",
               initialQuantity: 1,
             },
@@ -146,7 +146,7 @@ export default function GalleryPage() {
               id: "4",
               name: "Stone Artifact Vase",
               price: "₹7,800",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-arrangement-modern-vases_23-2149646530.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-arrangement-modern-vases_23-2149646530.jpg?_wi=4",
               imageAlt: "Handcrafted stone vase",
               initialQuantity: 1,
             },
@@ -154,7 +154,7 @@ export default function GalleryPage() {
               id: "5",
               name: "Wooden Frame Set",
               price: "₹4,500",
-              imageSrc: "http://img.b2bpic.net/free-photo/ramadan-frames-wall-front-view-white-background_187299-38104.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/ramadan-frames-wall-front-view-white-background_187299-38104.jpg?_wi=4",
               imageAlt: "Premium wooden frames",
               initialQuantity: 1,
             },
@@ -162,7 +162,7 @@ export default function GalleryPage() {
               id: "6",
               name: "Ceramic Décor Bowl",
               price: "₹6,200",
-              imageSrc: "http://img.b2bpic.net/free-photo/side-view-shaped-blank-white-simple-ceramic-coffee-cups-pyramide-thick-wooden-table-isolated_346278-1399.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/side-view-shaped-blank-white-simple-ceramic-coffee-cups-pyramide-thick-wooden-table-isolated_346278-1399.jpg?_wi=3",
               imageAlt: "Handmade ceramic bowl",
               initialQuantity: 1,
             },
@@ -256,7 +256,7 @@ export default function GalleryPage() {
               role: "Interior Decorator",
               testimonial:
                 "Mayur Artifacts has an incredible selection of unique pieces. The quality is exceptional and the staff is extremely helpful. My clients love the artifacts I source from here.",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg?_wi=2",
             },
             {
               id: "2",
@@ -264,7 +264,7 @@ export default function GalleryPage() {
               role: "Home Owner",
               testimonial:
                 "Found exactly what I was looking for to complete my living room makeover. The artifacts are authentic, well-crafted, and add tremendous character to my home.",
-              imageSrc: "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg?_wi=2",
             },
             {
               id: "3",
@@ -272,7 +272,7 @@ export default function GalleryPage() {
               role: "Event Planner",
               testimonial:
                 "Huge variety of artifacts perfect for different occasions. Whether for weddings or housewarming, they have something special for everyone. Highly recommended!",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg?_wi=2",
             },
             {
               id: "4",
@@ -280,7 +280,7 @@ export default function GalleryPage() {
               role: "Collector",
               testimonial:
                 "Excellent service and beautiful décor pieces. The team is knowledgeable and guides you well to choose the perfect artifact for your space. Worth every visit!",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-with-bag-outside_1303-5836.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-with-bag-outside_1303-5836.jpg?_wi=2",
             },
             {
               id: "5",
@@ -288,7 +288,7 @@ export default function GalleryPage() {
               role: "Architect",
               testimonial:
                 "As an architect, I appreciate fine details. Mayur Artifacts delivers quality and craftsmanship that elevates any interior design project. My go-to place for artifacts.",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiley-business-woman-with-files_23-2148692755.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/smiley-business-woman-with-files_23-2148692755.jpg?_wi=2",
             },
             {
               id: "6",
@@ -296,7 +296,7 @@ export default function GalleryPage() {
               role: "Customer",
               testimonial:
                 "Amazing collection of unique artifacts. The prices are fair and the quality is outstanding. Staff is courteous and always happy to help. Five stars!",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-taking-measure-with-his-hands_1187-1585.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-taking-measure-with-his-hands_1187-1585.jpg?_wi=2",
             },
           ]}
           animationType="slide-up"
@@ -340,7 +340,7 @@ export default function GalleryPage() {
           description="Swargate, Pune"
           subdescription="9 Shankar Sheth Rd, Swargate, Pune | 10:30 AM - 9 PM Daily"
           icon={MapPin}
-          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg?_wi=2"
           imageAlt="Mayur Artifacts Showroom"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
