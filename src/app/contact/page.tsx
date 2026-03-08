@@ -51,7 +51,7 @@ export default function ContactPage() {
           tagIcon={Sparkles}
           tagAnimation="slide-up"
           background={{ variant: "glowing-orb" }}
-          imageSrc="http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vase_23-2151003058.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vase_23-2151003058.jpg?_wi=4"
           imageAlt="Premium artifact collection display"
           imagePosition="right"
           mediaAnimation="slide-up"
@@ -72,28 +72,28 @@ export default function ContactPage() {
               handle: "Home Owner",
               testimonial: "Amazing collection! The artifacts transformed my living room completely. Highly recommended!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-young-woman-sitting-cafe_23-2148161555.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-young-woman-sitting-cafe_23-2148161555.jpg?_wi=4",
             },
             {
               name: "Rajesh Kumar",
               handle: "Interior Designer",
               testimonial: "Best artifacts supplier in Pune. Great quality and excellent customer service.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-grey-shirt-looking-front-with-clenched-fists-happy-excited-standing-pink-wall_141793-52902.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-grey-shirt-looking-front-with-clenched-fists-happy-excited-standing-pink-wall_141793-52902.jpg?_wi=4",
             },
             {
               name: "Ananya Desai",
               handle: "Customer",
               testimonial: "Unique pieces that can't be found anywhere else. Worth every rupee!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-woman-using-her-mobile-phone-street_1301-4689.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-woman-using-her-mobile-phone-street_1301-4689.jpg?_wi=4",
             },
             {
               name: "Vikram Singh",
               handle: "Collector",
               testimonial: "Exceptional craftsmanship and attention to detail. A true gem in Pune's décor scene.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/studio-portrait-serious-bearded-male-dressed-suit_613910-14795.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/studio-portrait-serious-bearded-male-dressed-suit_613910-14795.jpg?_wi=4",
             },
           ]}
           testimonialRotationInterval={5000}
@@ -131,7 +131,7 @@ export default function ContactPage() {
           description="Swargate, Pune"
           subdescription="9 Shankar Sheth Rd, Swargate, Pune | 10:30 AM - 9 PM Daily"
           icon={MapPin}
-          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg?_wi=5"
           imageAlt="Mayur Artifacts Showroom"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
@@ -152,21 +152,21 @@ export default function ContactPage() {
               name: "Meera Joshi",
               role: "Interior Decorator",
               testimonial: "Mayur Artifacts has an incredible selection of unique pieces. The quality is exceptional and the staff is extremely helpful. My clients love the artifacts I source from here.",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg?_wi=5",
             },
             {
               id: "2",
               name: "Arjun Nair",
               role: "Home Owner",
               testimonial: "Found exactly what I was looking for to complete my living room makeover. The artifacts are authentic, well-crafted, and add tremendous character to my home.",
-              imageSrc: "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg?_wi=5",
             },
             {
               id: "3",
               name: "Divya Patel",
               role: "Event Planner",
               testimonial: "Huge variety of artifacts perfect for different occasions. Whether for weddings or housewarming, they have something special for everyone. Highly recommended!",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg?_wi=5",
             },
           ]}
           animationType="slide-up"
