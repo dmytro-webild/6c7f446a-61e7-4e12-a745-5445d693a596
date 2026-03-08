@@ -52,7 +52,7 @@ export default function VisitPage() {
           description="Swargate, Pune"
           subdescription="9 Shankar Sheth Rd, Swargate, Pune | 10:30 AM - 9 PM Daily"
           icon={MapPin}
-          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg?_wi=4"
           imageAlt="Mayur Artifacts Showroom"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
