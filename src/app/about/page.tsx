@@ -51,7 +51,7 @@ export default function AboutPage() {
           tagIcon={Sparkles}
           tagAnimation="slide-up"
           background={{ variant: "glowing-orb" }}
-          imageSrc="http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vase_23-2151003058.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/handcrafted-wooden-decorative-vase_23-2151003058.jpg?_wi=3"
           imageAlt="About Mayur Artifacts showroom"
           imagePosition="left"
           mediaAnimation="slide-up"
@@ -67,7 +67,7 @@ export default function AboutPage() {
               testimonial:
                 "Mayur Artifacts was established with a vision to bring world-class artifacts to Pune.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-young-woman-sitting-cafe_23-2148161555.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-young-woman-sitting-cafe_23-2148161555.jpg?_wi=3",
             },
             {
               name: "Expert Curation",
@@ -75,7 +75,7 @@ export default function AboutPage() {
               testimonial:
                 "Every piece in our collection is hand-selected by our team of design experts.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-grey-shirt-looking-front-with-clenched-fists-happy-excited-standing-pink-wall_141793-52902.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-grey-shirt-looking-front-with-clenched-fists-happy-excited-standing-pink-wall_141793-52902.jpg?_wi=3",
             },
             {
               name: "Customer First",
@@ -83,7 +83,7 @@ export default function AboutPage() {
               testimonial:
                 "We believe in building lasting relationships with our customers through exceptional service.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-woman-using-her-mobile-phone-street_1301-4689.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-woman-using-her-mobile-phone-street_1301-4689.jpg?_wi=3",
             },
             {
               name: "Sustainability",
@@ -91,7 +91,7 @@ export default function AboutPage() {
               testimonial:
                 "We source responsibly and support artisans who practice traditional craftsmanship.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/studio-portrait-serious-bearded-male-dressed-suit_613910-14795.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/studio-portrait-serious-bearded-male-dressed-suit_613910-14795.jpg?_wi=3",
             },
           ]}
           testimonialRotationInterval={5000}
@@ -121,7 +121,7 @@ export default function AboutPage() {
               role: "Finest Materials & Craftsmanship",
               testimonial:
                 "Every artifact is crafted using superior materials and traditional techniques, ensuring longevity and timeless beauty in your home.",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg?_wi=3",
             },
             {
               id: "2",
@@ -129,7 +129,7 @@ export default function AboutPage() {
               role: "Handpicked Collections",
               testimonial:
                 "Our team travels extensively to discover unique pieces that meet our exacting standards for quality and design.",
-              imageSrc: "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg?_wi=3",
             },
             {
               id: "3",
@@ -137,7 +137,7 @@ export default function AboutPage() {
               role: "Customer-Centric Approach",
               testimonial:
                 "We believe in understanding your unique taste and helping you find pieces that perfectly complement your personal style.",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg?_wi=3",
             },
           ]}
           animationType="slide-up"

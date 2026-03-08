@@ -57,7 +57,7 @@ export default function ReviewsPage() {
               testimonial:
                 "Mayur Artifacts has an incredible selection of unique pieces. The quality is exceptional and the staff is extremely helpful. My clients love the artifacts I source from here.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg",
+                "http://img.b2bpic.net/free-photo/front-view-smiley-business-woman-posing-outdoors_23-2148603023.jpg?_wi=4",
             },
             {
               id: "2",
@@ -66,7 +66,7 @@ export default function ReviewsPage() {
               testimonial:
                 "Found exactly what I was looking for to complete my living room makeover. The artifacts are authentic, well-crafted, and add tremendous character to my home.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg",
+                "http://img.b2bpic.net/free-photo/business-career-success-concept-cheerful-stylish-young-unshaven-businessman-with-happy-smile-sitting-armchair-against-blank-wall-with-copy-space-your-information_343059-1785.jpg?_wi=4",
             },
             {
               id: "3",
@@ -75,7 +75,7 @@ export default function ReviewsPage() {
               testimonial:
                 "Huge variety of artifacts perfect for different occasions. Whether for weddings or housewarming, they have something special for everyone. Highly recommended!",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg",
+                "http://img.b2bpic.net/free-photo/young-girl-smiling-with-headphones-tablet_1157-1875.jpg?_wi=4",
             },
             {
               id: "4",
@@ -84,7 +84,7 @@ export default function ReviewsPage() {
               testimonial:
                 "Excellent service and beautiful décor pieces. The team is knowledgeable and guides you well to choose the perfect artifact for your space. Worth every visit!",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/man-with-bag-outside_1303-5836.jpg",
+                "http://img.b2bpic.net/free-photo/man-with-bag-outside_1303-5836.jpg?_wi=3",
             },
             {
               id: "5",
@@ -93,7 +93,7 @@ export default function ReviewsPage() {
               testimonial:
                 "As an architect, I appreciate fine details. Mayur Artifacts delivers quality and craftsmanship that elevates any interior design project. My go-to place for artifacts.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/smiley-business-woman-with-files_23-2148692755.jpg",
+                "http://img.b2bpic.net/free-photo/smiley-business-woman-with-files_23-2148692755.jpg?_wi=3",
             },
             {
               id: "6",
@@ -102,7 +102,7 @@ export default function ReviewsPage() {
               testimonial:
                 "Amazing collection of unique artifacts. The prices are fair and the quality is outstanding. Staff is courteous and always happy to help. Five stars!",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/man-taking-measure-with-his-hands_1187-1585.jpg",
+                "http://img.b2bpic.net/free-photo/man-taking-measure-with-his-hands_1187-1585.jpg?_wi=3",
             },
           ]}
           animationType="slide-up"
@@ -121,7 +121,7 @@ export default function ReviewsPage() {
           description="Swargate, Pune"
           subdescription="9 Shankar Sheth Rd, Swargate, Pune | 10:30 AM - 9 PM Daily"
           icon={MapPin}
-          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/adult-woman-carrying-shopping-bags-mall_23-2148660707.jpg?_wi=3"
           imageAlt="Mayur Artifacts Showroom"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
